@@ -1,0 +1,7 @@
+﻿  pch.cpp
+  UnitTest1.cpp
+C:\Users\Adem\Desktop\АИСТРД лабы 3 сем\L3\L3\UnitTest1\UnitTest1.cpp(41,22): warning C4101: exception: неиспользованная локальная переменная
+C:\Users\Adem\Desktop\АИСТРД лабы 3 сем\L3\L3\UnitTest1\UnitTest1.cpp(75,22): warning C4101: exception: неиспользованная локальная переменная
+C:\Users\Adem\Desktop\АИСТРД лабы 3 сем\L3\L3\UnitTest1\UnitTest1.cpp(130,21): warning C4101: exception: неиспользованная локальная переменная
+     Создается библиотека C:\Users\Adem\Desktop\АИСТРД лабы 3 сем\L3\L3\Debug\UnitTest1.lib и объект C:\Users\Adem\Desktop\АИСТРД лабы 3 сем\L3\L3\Debug\UnitTest1.exp
+  UnitTest1.vcxproj -> C:\Users\Adem\Desktop\АИСТРД лабы 3 сем\L3\L3\Debug\UnitTest1.dll
